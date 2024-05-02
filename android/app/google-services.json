@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "186184635097",
+    "firebase_url": "https://flutter-app-productes-89fe0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutter-app-productes-89fe0",
+    "storage_bucket": "flutter-app-productes-89fe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186184635097:android:a218e006fbe8a26b94e4c8",
+        "android_client_info": {
+          "package_name": "com.example.productes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDgScZ6JgP40Y17G3mgnYNhE8BMu_90Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
